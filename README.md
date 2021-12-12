@@ -1,16 +1,27 @@
 # hotelapp
 
-A new Flutter project.
+aplikasi hotel menggunakan QR CODE.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+berikut merupakan daftar QR CODE yg dapat digunakan Check in dan Check out.
 
-A few resources to get you started if this is your first Flutter project:
+<img alt="1" width="200" src="./assets/qr/aliston.png" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Aliston QRCODE
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img alt="1" width="200" src="./assets/qr/ascott.png" />
+
+ascott QRCODE
+
+<img alt="1" width="200" src="./assets/qr/bumi.png" />
+
+bumi QRCODE
+
+<img alt="1" width="200" src="./assets/qr/ciputra.png" />
+
+ciputra QRCODE
+
+<img alt="1" width="200" src="./assets/qr/jwmarriot.png" />
+
+jwmarriot QRCODE
